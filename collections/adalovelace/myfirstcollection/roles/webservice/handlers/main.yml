@@ -1,0 +1,4 @@
+---
+# handlers file for /home/student/ans/roles/alta3.webservice
+- name: restart service
+  shell: "/etc/init.d/apache2 restart"
